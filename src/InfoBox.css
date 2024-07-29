@@ -1,0 +1,13 @@
+.InfoBox{
+    text-align:center;
+}
+.cardContainer{
+    display:flex;
+    justify-content:center;
+    position:relative;
+    left:450px;
+}
+h2{
+    position:relative;
+    left:450px;
+}
